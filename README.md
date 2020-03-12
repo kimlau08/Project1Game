@@ -3,7 +3,6 @@
 # Wireframe
 ![wireframe](./wireframe/Game_Start.png)
 ![wireframe](./wireframe/Mountain_Scene.png)
-![wireframe](./wireframe/Castle_Scene.png)
 ![wireframe](./wireframe/Game_Stop-Mountain_Scene.png)
 
 # Game instructinos
